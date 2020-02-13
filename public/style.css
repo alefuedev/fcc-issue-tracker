@@ -1,0 +1,70 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 10px;
+  background-color: teal;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+code {
+	background-color: white;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+	color: white;
+}
+
+button {
+  background-color: #ff0080;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+  margin: 10px 0 10px 0;
+  padding: 10px;
+}
+
+li {
+margin-top: 10px;
+}
+
+.closed {
+  background-color: lightgrey;
+}
+
+.closeIssue {
+  color: #ff6f69;
+  font-size: 1.5em;
+}
+
+.deleteIssue {
+  color: #ff0080;
+  font-size: 1.5em;
+}
+
+.id {
+  font-size: 10.5px;
+}
+
+.issue {
+margin: 20px;
+padding: 5px;
+width: 60%;
+border: 5px solid #ff0080;
+border-radius: 10px;
+background-color: #fff;
+}
+
+.newIssue {
+  border: 5px solid white;
+  border-radius: 20px;
+  width: 480px;
+  padding: 10px;
+}
